@@ -7,7 +7,7 @@
   <!-- LineageOS Repositories. -->
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" revision="cm-14.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="cm-14.1" />
-  <project name="LineageOS/android_external_mm-dash" path="external/mm-dash" revision="cm-14.1" />
+  <project name="LineageOS/android_external_mm-dash" path="external/mm-dash" revision="cm-14.0" />
   <project name="LineageOS/android_hardware_qcom_fm" path="hardware/qcom/fm" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="cm-14.1" />
 </manifest>
