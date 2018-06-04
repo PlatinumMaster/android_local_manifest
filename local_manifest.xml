@@ -2,9 +2,11 @@
 <manifest>
   <!-- "cprimeltemtr" Repositories. -->
   <project name="PlatinumMaster/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="master" />
-  <project name="PlatinumMaster/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="cm-12.1" />
-  <project name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" path="vendor/samsung/cprimeltemtr" revision="master" />
-  <project name="PlatinumMaster/android_kernel_samsung_cprimeltemtr" path="kernel/samsung/cprimeltemtr" remote="github" revision="master" />
+  <project name="PlatinumMaster/android_device_samsung_coreprimelte-common" path="device/samsung/coreprimelte-common" remote="github" revision="cm-12.1" />
+  <project name="FazPhantom/proprietary_vendor_samsung_cprimeltemtr" path="vendor/samsung/cprimeltemtr" remote="github" revision="master" />
+  <project name="FazPhantom/proprietary_vendor_samsung_cprimeltemtr-common" path="vendor/samsung/cprimeltemtr-common" remote="github" revision="master" />
+  <project name="FazPhantom/android_kernel_samsung_msm8916" path="kernel/samsung/msm8916" remote="github" revision="master" />  <!-- CyanogenMod Repositories. -->
+  
   <!-- CyanogenMod Repositories. -->
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" revision="cm-12.1" />
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="cm-12.1" />
